@@ -7,5 +7,5 @@ Package.on_use(function(api, where) {
 	api.add_files(['fullcalendar/fullcalendar.js', 
 				   'fullcalendar/fullcalendar.css',
 				   'fullcalendar/lang/all.js'
-				  ]);
+				  ], 'client');
 });
