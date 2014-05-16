@@ -3,10 +3,9 @@
 	"description": "fullcallendar v2 for Meteor - FullCalendar is a jQuery plugin that provides a full-sized, drag & drop calendar",
 	"homepage": "https://github.com/scmart/meteor-fullcalendar-2",
 	"author": "Sedric Mart",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"git": "https://github.com/scmart/meteor-fullcalendar-2.git",
 	"packages": {
-		"moment": {},
-		"jqueryui": {}
+		"moment": {}
 	}
 }
