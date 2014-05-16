@@ -5,4 +5,4 @@ Fullcalendar for meteor (version 2)
 
 to install
 
-mrt add meteor-fullcalendar-2
+mrt add fullcalendar-2
