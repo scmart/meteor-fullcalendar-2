@@ -7,6 +7,6 @@ Package.on_use(function(api, where) {
 	api.add_files(['lib/jquery-ui-1.10.4.custom.js',
 				   'fullcalendar/fullcalendar.js', 
 				   'fullcalendar/fullcalendar.css',
-				   'fullcalendar/lang/all.js'
+				   'fullcalendar/lang-all.js'
 				  ], 'client');
 });
